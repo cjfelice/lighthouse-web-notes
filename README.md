@@ -1,8 +1,4 @@
 # Chris' Notes
 ## Summary
 
-This repository contains all of the notes taken by Chris for the Lighthouse Labs Web Development Bootcamp.
-
-[Chris Smith](https://github.com/cjfelice)
-
-[Lighthouse Labs](https://www.lighthouselabs.ca/)
+This repository contains all of the notes taken by [Chris](https://github.com/cjfelice) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
